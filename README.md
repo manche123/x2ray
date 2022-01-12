@@ -17,6 +17,7 @@ Xray一键脚本使用步骤如下：
 `bash <(curl -sL https://raw.githubusercontent.com/manche123/x2ray/main/xray.sh)`
 
 按回车键，将出现如下操作菜单。如果菜单没出现，CentOS系统请输入 `yum install -y curl`
+
 Ubuntu/Debian系统请输入 `sudo apt install -y curl`，然后再次运行上面的命令：
 ![image](https://user-images.githubusercontent.com/34021259/149056687-5fd0296c-cccb-4c99-a8d5-140f4b32c4da.png)
                             Xray一键安装脚本
