@@ -41,6 +41,7 @@ trojan+XTLS，trojan加强版，使用XTLS技术来提升性能
 
 6. 脚本接下来自动运行，一切顺利的话结束后会输出配置信息：
 ![image](https://user-images.githubusercontent.com/34021259/149056949-c92e7d96-fe62-4a14-a7ef-6d704c0ad595.png)
+
                         Xray一键脚本运行成功输出信息
 
 
