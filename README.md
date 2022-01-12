@@ -63,9 +63,9 @@ Xray一键脚本其他事项
 
 接下来是配置客户端，下载客户端和配置教程请参考：
 
-[V2ray Windows客户端下载](https://v2raytech.com/v2ray-windows-client-download/)
-[V2ray 安卓客户端下载](https://v2raytech.com/v2ray-android-client-download/)
-[V2ray Mac客户端下载](https://v2raytech.com/v2ray-mac-client-download/)
-[V2ray苹果客户端下载](https://v2raytech.com/v2ray-ios-client-download/)
+- [V2ray Windows客户端下载](https://v2raytech.com/v2ray-windows-client-download/)
++ [V2ray 安卓客户端下载](https://v2raytech.com/v2ray-android-client-download/)
+* [V2ray Mac客户端下载](https://v2raytech.com/v2ray-mac-client-download/)
+- [V2ray苹果客户端下载](https://v2raytech.com/v2ray-ios-client-download/)
 
 
