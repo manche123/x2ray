@@ -19,9 +19,7 @@ bash <(curl -sL https://raw.githubusercontent.com/manche123/x2ray/main/xray.sh)
 
 按回车键，将出现如下操作菜单。如果菜单没出现，CentOS系统请输入 yum install -y curl，Ubuntu/Debian系统请输入 sudo apt install -y curl，然后再次运行上面的命令：
 ![image](https://user-images.githubusercontent.com/34021259/149056687-5fd0296c-cccb-4c99-a8d5-140f4b32c4da.png)
-
-Xray一键安装脚本
-Xray一键安装脚本
+                            Xray一键安装脚本
 
 本Xray一键脚本目前支持以下组合方式：
 
@@ -38,14 +36,13 @@ trojan+XTLS，trojan加强版，使用XTLS技术来提升性能
 注意：目前一些客户端不支持VLESS协议，或者不支持XTLS，请按照自己的情况选择组合
 
 5. 按照自己的需求选择一个方式。例如6，然后回车。接着脚本会让你输入一些信息，也可以直接按回车使用默认值。需要注意的是，对于要输入伪装域名的情况，如果服务器上有网站在运行，请联系运维再执行脚本，否则可能导致原来网站无法访问！
-
-xray一键脚本输入
-xray一键脚本输入
+![image](https://user-images.githubusercontent.com/34021259/149056890-3c1fd4d3-6995-4964-aa19-d2ad1a0c5fdd.png)
+                          xray一键脚本输入
 
 6. 脚本接下来自动运行，一切顺利的话结束后会输出配置信息：
+![image](https://user-images.githubusercontent.com/34021259/149056949-c92e7d96-fe62-4a14-a7ef-6d704c0ad595.png)
+                        Xray一键脚本运行成功输出信息
 
-Xray一键脚本运行成功输出信息
-Xray一键脚本运行成功输出信息
 
 到此服务端配置完毕，服务器可能会自动重启（没提示重启则不需要），windows终端出现“disconnected”，mac出现“closed by remote host”说明服务器成功重启了。
 
